@@ -22,6 +22,18 @@ let updateTimer;
 
 const music_list = [
     {
+        img : 'images/whatjhumka.jpg',
+        name : 'What Jhumka',
+        artist : 'Arijit Singh',
+        music : 'music/What Jhumka.mp3'
+    },
+    {
+        img : 'images/terehawale.jpg',
+        name : 'Tere Hawale',
+        artist : 'Tushar Joshi',
+        music : 'music/Tere Hawale.mp3'
+    },
+    {
         img : 'images/stay.png',
         name : 'Stay',
         artist : 'The Kid LAROI, Justin Bieber',
@@ -44,6 +56,18 @@ const music_list = [
         name : 'Rather Be',
         artist : 'Clean Bandit',
         music : 'music/Rather Be.mp3'
+    },
+    {
+        img : 'images/phiraur.jpg',
+        name : 'Phir or Kya Chahiye',
+        artist : 'Arijit Singh',
+        music : 'music/Phir Aur Kya Chahiye.mp3'
+    },
+    {
+        img : 'images/tujhesochta.jpg',
+        name : 'Tujhe Sochta hu ',
+        artist : 'KK',
+        music : 'music/Tujhe Sochta.mp3'
     }
 ];
 
